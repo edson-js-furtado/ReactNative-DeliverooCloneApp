@@ -1,8 +1,8 @@
 # React Native - Deliveroo Clone App
 
-Learned about:
+LEARNED ABOUT:
 
 • Redux 
 • Navigation
-• Tailwindcss
+• Tailwindcss 
 • Sanity.io
